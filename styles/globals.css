@@ -1,0 +1,45 @@
+body {
+    font-family: 'Tahoma', sans-serif;
+    background: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+  }
+  
+  .hero {
+    background: linear-gradient(to bottom, #6A0DAD, #FFD700);
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .cover {
+    max-width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  }
+  
+  .services, .activities, .contact {
+    padding: 2rem;
+    background-color: #f0f0f0;
+    margin: 1rem 0;
+    border-radius: 1rem;
+  }
+  
+  h2 {
+    color: #6A0DAD;
+  }
+  
+  a {
+    color: #6A0DAD;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #FFD700;
+    text-decoration: underline;
+  }
+  
